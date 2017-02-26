@@ -16,8 +16,6 @@
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
     "concurrently": "^3.1.0",
-    "eslint": "^3.13.1",
-    "eslint-config-google": "^0.7.1",
     "mocha": "^3.2.0",
     "pact": "^2.0.1"
   },
