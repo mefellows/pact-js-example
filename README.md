@@ -44,9 +44,9 @@ Given an animal profile, recommends a suitable partner based on similar interest
 ## Running the tests
 
 1. `npm install`
-1. `npm test:consumer` - Run consumer tests
-1. `npm test:publish` - Publish contracts to the broker
-1. `npm test:provider` - Run provider tests
+1. `npm run test:consumer` - Run consumer tests
+1. `npm run test:publish` - Publish contracts to the broker
+1. `npm run test:provider` - Run provider tests
 
 ## Running the API
 
